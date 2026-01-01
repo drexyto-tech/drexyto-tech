@@ -2,30 +2,34 @@
 <h3 align="center">A Senior Backend Developer from Bulgaria with skills on the frontend!</h3>
 
 <p align="center">
-📫 How to reach me: <strong>drexy@tuta.com</strong><br/>
-👨‍💻 All of my projects: <a href="https://drexy.xyz">https://drexy.xyz</a>
+  📫 How to reach me: <strong>drexy@tuta.com</strong><br/>
+  👨‍💻 All of my projects: <a href="https://drexy.xyz">https://drexy.xyz</a>
 </p>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="https://github.com/drexyto-tech" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-         alt="github" height="30" width="40"/>
+  <a href="https://github.com/drexyto-tech" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="GitHub"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
----
+<hr/>
 
 <h2 align="center">🧠 Languages & Tools</h2>
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,svelte,nextjs,nuxtjs,tailwind,figma,framer,rust," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,svelte,nextjs,nuxtjs,tailwind,figma,framer" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,php,python,cs,cpp,c,flask,laravel" />
+  <img src="https://skillicons.dev/icons?i=go,java,php,python,cs,cpp,c,rust,flask,laravel" />
 </p>
 
 <h3 align="center">☁️ DevOps & Infrastructure</h3>
