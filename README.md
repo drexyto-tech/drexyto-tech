@@ -20,7 +20,7 @@
 
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,svelte,nextjs,nuxtjs,tailwind,figma,framer" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,vue,svelte,nextjs,nuxtjs,tailwind,figma,framer,rust" />
 </p>
 
 <h3 align="center">⚙️ Backend</h3>
