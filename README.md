@@ -3,7 +3,7 @@
 
 <p align="center">
   📫 How to reach me: <strong>drexy@tuta.com</strong><br/>
-  👨‍💻 All of my projects: <a href="https://drexy.xyz">https://drexy.xyz</a>
+  👨‍💻 Know about my experiences: <a href="https://drexy.xyz">https://drexy.xyz</a>
 </p>
 
 <h3 align="center">Connect with me</h3>
